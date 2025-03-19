@@ -1,0 +1,33 @@
+# 自动检测文本文件并设置行尾符为LF
+* text=auto
+
+# 源代码文件
+*.cpp text
+*.h text
+*.hpp text
+*.c text
+*.cxx text
+*.cc text
+*.json text
+*.py text
+*.sh text eol=lf
+*.md text
+*.txt text
+*.cmake text
+CMakeLists.txt text
+
+# 二进制文件
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.root binary
+*.dat binary
+*.pdf binary
+*.so binary
+*.dylib binary
+*.dll binary
+*.a binary
+*.lib binary
+*.exe binary 

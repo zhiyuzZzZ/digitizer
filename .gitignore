@@ -1,0 +1,48 @@
+# 忽略编译生成的文件和目录
+build/
+install/
+
+# 忽略CMake生成的文件
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# 忽略编译产物
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+*.exe
+*.out
+
+# 忽略IDE和编辑器生成的文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 忽略操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# 忽略日志文件
+*.log
+
+# 忽略用户特定的配置文件（如果有的话）
+# config.user.json
+
+# 忽略可能包含敏感信息的环境文件
+.env
+.env.local
+
+# 忽略依赖目录（如果有的话）
+# vendor/
+# node_modules/
+
+# 忽略生成的文档（如果需要的话）
+# docs/generated/ 
