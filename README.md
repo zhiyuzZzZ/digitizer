@@ -144,24 +144,3 @@ root -l 'scripts/plot_results.C("results/run1_Total.root", "results/plots/run1")
 ```
 
 详细用法请参考[USAGE.md](docs/USAGE.md)文档。
-
-## 许可证
-
-本项目采用[MIT许可证](LICENSE)。
-
-## 联系方式
-
-如有问题或建议，请通过以下方式联系：
-
-- 项目维护者：您的姓名
-- 电子邮箱：您的邮箱
-- 项目Issues：https://github.com/yourusername/digitization/issues
-
-## 致谢
-
-- 感谢ROOT团队提供的强大数据分析和可视化框架
-- 感谢所有为该项目提供反馈和建议的用户
-
----
-
-© 2023 数字化模拟项目团队 
